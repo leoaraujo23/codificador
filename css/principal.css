@@ -1,0 +1,94 @@
+
+.textos {
+    display:flex;
+    flex-direction: row;
+}
+
+.ingresar {
+height: 288px;
+width: 680px;
+margin-left: 200px;
+margin-top: 148px;
+border-radius: nullpx;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 150%;
+}
+
+.mostrar_texto {
+position: absolute;
+width: 336px;
+height: 500px;
+left:932px;
+top: 72px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 150%;
+}
+
+.aviso {
+margin-left: 250px;
+}
+.botones {
+display:flex;
+flex-direction: row;
+}
+
+.encriptar_boton {
+height: 67px;
+width: 328px;
+border-radius: 24px;
+padding: 24px;
+gap: 8px;
+/* Dark blue/dark-blue-300 */
+background: #0A3871;
+border-radius: 24px;
+color: white;
+margin-left: 240px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+}
+
+.desencriptar_boton {
+height: 67px;
+width: 328px;
+border-radius: 24px;
+padding: 24px;
+gap: 8px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+/* Dark blue/dark-blue-300 */
+color: #0A3871;
+}
+
+.copiar_boton {
+height: 67px;
+width: 328px;
+border-radius: 24px;
+padding: 24px;
+gap: 8px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+/* Dark blue/dark-blue-300 */
+color: #0A3871;
+margin-left: 932px;
+}
+
+
+
